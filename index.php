@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         echo "APARTADO 4 - CARLA BURGUETE";
         echo "Añadiendo cambios al proyecto";
+        echo "Segundo cambio";
         ?>
     </body>
 </html>
